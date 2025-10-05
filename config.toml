@@ -20,7 +20,7 @@ weight = -100
 [params]
 description = "bkmlauda's blog"
 header_title = "bkmlauda"
-header_subtitle = "hengker"
+header_subtitle = "security enthusiast"
 home_image = "images/avatar.jpg"
 recent_posts = 0
 mainSections = ["posts"]
