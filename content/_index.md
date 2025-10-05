@@ -1,6 +1,8 @@
+#### About
+
 CTF enjoyer, tryhard solely on web challs.
 ```
-def web:
+def web:    
     if(imdone) {
         misc() 
     }
@@ -9,6 +11,6 @@ This blog will contain writeups for interesting challs. Additionally, will try t
 
 Old writeups blog: https://hackmd.io/@bkmlauda
 
-##### Team
+#### Team
 - holyhexor (solo)
 

@@ -20,7 +20,7 @@ weight = -100
 [params]
 description = "bkmlauda's blog"
 header_title = "bkmlauda"
-header_subtitle = "security enthusiast"
+header_subtitle = "hengker"
 home_image = "images/avatar.jpg"
 recent_posts = 0
 mainSections = ["posts"]
@@ -33,3 +33,6 @@ href = "https://ctftime.org/team/373107"
 [[params.social]]
 fa_icon = "fab fa-linkedin-in fa-1x"
 href = "https://linkedin.com/in/nathanael-owen-kamto-7a86a424b/"
+[[params.social]]
+fa_icon = "fas fa-envelope fa-1x"
+href = "mailto:bkmlauda@gmail.com"
