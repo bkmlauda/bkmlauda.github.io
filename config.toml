@@ -1,0 +1,35 @@
+baseURL = "https://bkmlauda.github.io"
+title = "bkmlauda's blog"
+languageCode = "en-us"
+theme = "devise"
+relativeURLs = true
+googleAnalytics = ""
+enableEmoji = true
+enableRobotsTXT = true
+copyright = "&copy; Copyright 2025, bkmlauda"
+minify = true
+
+[menu]
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+title = "Posts"
+url = "/post/"
+weight = -100
+
+[params]
+description = "bkmlauda's blog"
+header_title = "bkmlauda"
+header_subtitle = "security enthusiast"
+home_image = "images/avatar.jpg"
+recent_posts = 0
+mainSections = ["posts"]
+[params.style]
+backgroundColor = "#f8f9fa"
+fontColor = "#212529"
+[[params.social]]
+fa_icon = "fas fa-flag fa-1x"
+href = "https://ctftime.org/team/373107"
+[[params.social]]
+fa_icon = "fab fa-linkedin-in fa-1x"
+href = "https://linkedin.com/in/nathanael-owen-kamto-7a86a424b/"
